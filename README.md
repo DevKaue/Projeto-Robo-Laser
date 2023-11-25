@@ -27,6 +27,6 @@ O projeto Gigantes de MDF, vem com o intuito dos alunos aplicarem os conceitos r
 <p align="center">1x Laser<p>
 <p align="center">1x LDR de 14mm<p>
 
->>>>> A DESENVOLVER O RESTO DO README !!!!!
+O código foi desenvolvido na linguagem C, tendo em vista trabalhar com uma linguagem mais perto da linguagem de máquina, que seria o Assymble mas ele mais otimizado,presente na linguagem C. Foram realizado alguns testes no programa SimulideIDE, para poder debbugar e acompanhar o desenvolvimento do código.
 
 
