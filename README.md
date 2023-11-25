@@ -6,10 +6,10 @@ Repositório voltado para documentar e armazenar os códigos e processos desenvo
 
 <h2 align="center" color="black" fontsize="18">Alunos<h2>
 
-<p align="center" fontsize="14">Alec Gomez Yagi Rodrigues<p>
-<p align="center" fontsize="14">Kauê Wendt Sabino<p>
-<p align="center" fontsize="14">Leonardo Raposo Rocha<p>
-<p align="center" fontsize="14">Leonardo Montagner de Ramos Vallim<p>
+<p align="center">Alec Gomez Yagi Rodrigues<p>
+<p align="center">Kauê Wendt Sabino<p>
+<p align="center">Leonardo Raposo Rocha<p>
+<p align="center">Leonardo Montagner de Ramos Vallim<p>
 
 
 <h2 align="center" color="black">Sobre o Projeto:<h2>
