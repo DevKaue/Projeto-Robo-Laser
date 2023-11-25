@@ -4,7 +4,7 @@ Repositório voltado para documentar e armazenar os códigos e processos desenvo
 
 <!-- // ALUNOS INTEGRANTES DO GRUPO // -->
 
-<h2 align="center" color="black" fontsize="18">Alunos<h2>
+<h2 align="center">Alunos<h2>
 
 <p align="center">Alec Gomez Yagi Rodrigues<p>
 <p align="center">Kauê Wendt Sabino<p>
@@ -18,9 +18,14 @@ O projeto Gigantes de MDF, vem com o intuito dos alunos aplicarem os conceitos r
 
 <div>
     <p align="center">1x Arduino Nano<p>
-    <p align="center">4x Resistores de 1kohms<p>
+    <p align="center">4x Resistores de 10kohms<p>
     <p align="center">3 Resisrores de 350ohms<p>
 <div>
+<p align="center">4x Botões<p>
+<p align="center">2x Motores DC<p>
+<p align="center">1x C.I de ponte H o 293D<p>
+<p align="center">1x Laser<p>
+<p align="center">1x LDR de 14mm<p>
 
 >>>>> A DESENVOLVER O RESTO DO README !!!!!
 
