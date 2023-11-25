@@ -1,7 +1,7 @@
 # Projeto-Robo-Laser
 Repositório voltado para documentar e armazenar os códigos e processos desenvolvidos para o projeto Gigantes de MDF.
 
-#Alunos
+# Alunos
 
 *Alec Gomez Yagi Rodrigues<p>
 *Kauê Wendt Sabino<p>
